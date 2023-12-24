@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <div>
+            <h1>Amina Saeed</h1>
+            <p>Contact: <a href="abcd.com">aminasaeed223@gmail.com</a></p>
+            <p>Linkedin: <a href="abcd.com">linkedin.com/in/amina-saeed-865469224/</a></p>
+            <p>Github: <a href="abcd.com">github.com/aminasaeed223</a></p>
+
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://wallpapers.com/images/hd/profile-picture-f67r1m9y562wdtin.jpg", width="200" 
+                        height="200">
+
+                    </td>
+                    <td>
+                        Highly skilled and innovative software engineer with a proven track record of designing and 
+                        developing robust software solutions. Seeking a challenging position where I can utilize 
+                        my technical expertise, passion for problem-solving, and commitment to delivering 
+                        high-quality software to contribute to the success of a dynamic organization.
+                    </td>
+
+            </tr>
+
+            </table>
+        </div>
+        <section>
+            <h2>Eduction</h2>
+            <ul>
+                <li>Bachelors in Software Engineering from Virtual University of Pakistan(VU Islamabad)</li>
+                <li>Stanford University, Code in PLace</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <h3> Data Science Intern at Codsoft</h3>
+            <p>August 2023-September 2023</p>
+            <ul>
+                <li>Worked on Titanic project on Survival Prediction</li>
+                <li>Use Linear Regression for model building</li>
+               
+            </ul>
+        </section>
+        <section>
+            <h3>Skills</h3>
+            <ul>
+                <li>Programming Languages : Python, Java, JavaScript, HTML/CSS</li>
+                <li>Git, GitLab, Github</li>
+                <li>Data Visualization Tools : Tableau, Power BI, D3.js</li>
+                <li>Data Analysis</li>
+                <li>Database Management Systems : SQL, NoSQL</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Achievements</h3>
+            <ul> 
+                <li>Accepted in Code in Place by Stanford University</li>
+                
+                <li>Won Cs50x Puzzle Competition by Harvard University</li>
+                <li>Accepted as Student Ambassador at Microsoft </li>
+            </ul>
+        </section>
+        <section>
+            <h3> Projects</h3>
+            <ul>
+                <li>Mental Health App MindHire</li>
+            </ul>
+        </section>
+        <footer>
+            <p>
+                @ 2023 Amina Saeed. All rights are reserved.
+            </p>
+        </footer>
+    </div>
+    
+</body>
+</html>
